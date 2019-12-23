@@ -5,10 +5,14 @@ verify_ssl = true
 
 [dev-packages]
 pylint = "*"
+autopep8 = "*"
 
 [packages]
 speechrecognition = "*"
 pyaudio = "*"
+gtts = "*"
+playsound = "*"
+pyobjc = "*"
 
 [requires]
 python_version = "3.7"
